@@ -1,4 +1,4 @@
-| Index | Face ID | Occurrences | Mean Engagement | Image |
+| Rank | Face ID | Occurrences | Mean Engagement | Image |
 | ----- | ------- | ----- | ----- | ----- |
 | 1 | 0_face_1 | 91 | 1.0487 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/0_face_1.jpg' alt='0_face_1' width='100'/> |
 | 2 | 3_face_3 | 73 | 0.8622 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_3.jpg' alt='3_face_3' width='100'/> |
