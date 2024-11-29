@@ -28,4 +28,4 @@ for index, face_data in enumerate(ranked_faces, start=1):
     face_id = face_data['face']
     occurrences = face_data['occurrences']
     mean_engagement = face_data['mean_engagement']
-    print(f"| {index} | {face_id} | {occurrences} | {mean_engagement:.4f} | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/{face_id}.jpg' alt='{face_id}' width='100'/> |")
+    print(f"| {index} | {face_id} | {occurrences} | {mean_engagement:.4f} | <img src='{face_id}.jpg' alt='{face_id}' width='100'/> |")
