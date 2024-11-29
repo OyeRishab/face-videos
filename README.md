@@ -1,32 +1,32 @@
-| Face ID | Occurrences | Face |
-| ------- | ----- | ----- |
-| 0_face_1 | 91 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/0_face_1.jpg' alt='0_face_1' width='100'/> |
-| 3_face_3 | 73 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_3.jpg' alt='3_face_3' width='100'/> |
-| 3_face_1 | 69 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_1.jpg' alt='3_face_1' width='100'/> |
-| 3_face_2 | 61 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_2.jpg' alt='3_face_2' width='100'/> |
-| 2_face_1 | 12 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/2_face_1.jpg' alt='2_face_1' width='100'/> |
-| 11_face_2 | 11 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/11_face_2.jpg' alt='11_face_2' width='100'/> |
-| 23_face_3 | 8 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/23_face_3.jpg' alt='23_face_3' width='100'/> |
-| 30_face_2 | 8 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/30_face_2.jpg' alt='30_face_2' width='100'/> |
-| 11_face_1 | 7 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/11_face_1.jpg' alt='11_face_1' width='100'/> |
-| 23_face_1 | 6 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/23_face_1.jpg' alt='23_face_1' width='100'/> |
-| 2_face_2 | 5 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/2_face_2.jpg' alt='2_face_2' width='100'/> |
-| 15_face_1 | 4 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/15_face_1.jpg' alt='15_face_1' width='100'/> |
-| 15_face_2 | 3 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/15_face_2.jpg' alt='15_face_2' width='100'/> |
-| 23_face_2 | 3 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/23_face_2.jpg' alt='23_face_2' width='100'/> |
-| 30_face_1 | 3 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/30_face_1.jpg' alt='30_face_1' width='100'/> |
-| 146_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/146_face_1.jpg' alt='146_face_1' width='100'/> |
-| 154_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/154_face_1.jpg' alt='154_face_1' width='100'/> |
-| 198_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/198_face_1.jpg' alt='198_face_1' width='100'/> |
-| 207_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/207_face_1.jpg' alt='207_face_1' width='100'/> |
-| 251_face_2 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/251_face_2.jpg' alt='251_face_2' width='100'/> |
-| 25_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/25_face_1.jpg' alt='25_face_1' width='100'/> |
-| 95_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/95_face_1.jpg' alt='95_face_1' width='100'/> |
-| 95_face_2 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/95_face_2.jpg' alt='95_face_2' width='100'/> |
-| 101_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/101_face_1.jpg' alt='101_face_1' width='100'/> |
-| 170_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/170_face_1.jpg' alt='170_face_1' width='100'/> |
-| 182_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/182_face_1.jpg' alt='182_face_1' width='100'/> |
-| 251_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/251_face_1.jpg' alt='251_face_1' width='100'/> |
-| 251_face_3 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/251_face_3.jpg' alt='251_face_3' width='100'/> |
-| 253_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/253_face_1.jpg' alt='253_face_1' width='100'/> |
-| 253_face_2 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/253_face_2.jpg' alt='253_face_2' width='100'/> |
+| Index | Face ID | Occurences | Face |
+| ----- | ------- | ----- | ----- |
+| 1 | 0_face_1 | 91 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/0_face_1.jpg' alt='0_face_1' width='100'/> |
+| 2 | 3_face_3 | 73 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_3.jpg' alt='3_face_3' width='100'/> |
+| 3 | 3_face_1 | 69 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_1.jpg' alt='3_face_1' width='100'/> |
+| 4 | 3_face_2 | 61 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_2.jpg' alt='3_face_2' width='100'/> |
+| 5 | 2_face_1 | 12 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/2_face_1.jpg' alt='2_face_1' width='100'/> |
+| 6 | 11_face_2 | 11 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/11_face_2.jpg' alt='11_face_2' width='100'/> |
+| 7 | 23_face_3 | 8 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/23_face_3.jpg' alt='23_face_3' width='100'/> |
+| 8 | 30_face_2 | 8 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/30_face_2.jpg' alt='30_face_2' width='100'/> |
+| 9 | 11_face_1 | 7 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/11_face_1.jpg' alt='11_face_1' width='100'/> |
+| 10 | 23_face_1 | 6 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/23_face_1.jpg' alt='23_face_1' width='100'/> |
+| 11 | 2_face_2 | 5 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/2_face_2.jpg' alt='2_face_2' width='100'/> |
+| 12 | 15_face_1 | 4 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/15_face_1.jpg' alt='15_face_1' width='100'/> |
+| 13 | 15_face_2 | 3 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/15_face_2.jpg' alt='15_face_2' width='100'/> |
+| 14 | 23_face_2 | 3 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/23_face_2.jpg' alt='23_face_2' width='100'/> |
+| 15 | 30_face_1 | 3 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/30_face_1.jpg' alt='30_face_1' width='100'/> |
+| 16 | 146_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/146_face_1.jpg' alt='146_face_1' width='100'/> |
+| 17 | 154_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/154_face_1.jpg' alt='154_face_1' width='100'/> |
+| 18 | 198_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/198_face_1.jpg' alt='198_face_1' width='100'/> |
+| 19 | 207_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/207_face_1.jpg' alt='207_face_1' width='100'/> |
+| 20 | 251_face_2 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/251_face_2.jpg' alt='251_face_2' width='100'/> |
+| 21 | 25_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/25_face_1.jpg' alt='25_face_1' width='100'/> |
+| 22 | 95_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/95_face_1.jpg' alt='95_face_1' width='100'/> |
+| 23 | 95_face_2 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/95_face_2.jpg' alt='95_face_2' width='100'/> |
+| 24 | 101_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/101_face_1.jpg' alt='101_face_1' width='100'/> |
+| 25 | 170_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/170_face_1.jpg' alt='170_face_1' width='100'/> |
+| 26 | 182_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/182_face_1.jpg' alt='182_face_1' width='100'/> |
+| 27 | 251_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/251_face_1.jpg' alt='251_face_1' width='100'/> |
+| 28 | 251_face_3 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/251_face_3.jpg' alt='251_face_3' width='100'/> |
+| 29 | 253_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/253_face_1.jpg' alt='253_face_1' width='100'/> |
+| 30 | 253_face_2 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/253_face_2.jpg' alt='253_face_2' width='100'/> |
