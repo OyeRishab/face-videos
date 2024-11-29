@@ -1,32 +1,32 @@
-| Index | Face ID | Occurences | Face |
-| ----- | ------- | ----- | ----- |
-| 1 | 0_face_1 | 91 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/0_face_1.jpg' alt='0_face_1' width='100'/> |
-| 2 | 3_face_3 | 73 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_3.jpg' alt='3_face_3' width='100'/> |
-| 3 | 3_face_1 | 69 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_1.jpg' alt='3_face_1' width='100'/> |
-| 4 | 3_face_2 | 61 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_2.jpg' alt='3_face_2' width='100'/> |
-| 5 | 2_face_1 | 12 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/2_face_1.jpg' alt='2_face_1' width='100'/> |
-| 6 | 11_face_2 | 11 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/11_face_2.jpg' alt='11_face_2' width='100'/> |
-| 7 | 23_face_3 | 8 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/23_face_3.jpg' alt='23_face_3' width='100'/> |
-| 8 | 30_face_2 | 8 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/30_face_2.jpg' alt='30_face_2' width='100'/> |
-| 9 | 11_face_1 | 7 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/11_face_1.jpg' alt='11_face_1' width='100'/> |
-| 10 | 23_face_1 | 6 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/23_face_1.jpg' alt='23_face_1' width='100'/> |
-| 11 | 2_face_2 | 5 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/2_face_2.jpg' alt='2_face_2' width='100'/> |
-| 12 | 15_face_1 | 4 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/15_face_1.jpg' alt='15_face_1' width='100'/> |
-| 13 | 15_face_2 | 3 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/15_face_2.jpg' alt='15_face_2' width='100'/> |
-| 14 | 23_face_2 | 3 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/23_face_2.jpg' alt='23_face_2' width='100'/> |
-| 15 | 30_face_1 | 3 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/30_face_1.jpg' alt='30_face_1' width='100'/> |
-| 16 | 146_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/146_face_1.jpg' alt='146_face_1' width='100'/> |
-| 17 | 154_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/154_face_1.jpg' alt='154_face_1' width='100'/> |
-| 18 | 198_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/198_face_1.jpg' alt='198_face_1' width='100'/> |
-| 19 | 207_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/207_face_1.jpg' alt='207_face_1' width='100'/> |
-| 20 | 251_face_2 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/251_face_2.jpg' alt='251_face_2' width='100'/> |
-| 21 | 25_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/25_face_1.jpg' alt='25_face_1' width='100'/> |
-| 22 | 95_face_1 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/95_face_1.jpg' alt='95_face_1' width='100'/> |
-| 23 | 95_face_2 | 2 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/95_face_2.jpg' alt='95_face_2' width='100'/> |
-| 24 | 101_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/101_face_1.jpg' alt='101_face_1' width='100'/> |
-| 25 | 170_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/170_face_1.jpg' alt='170_face_1' width='100'/> |
-| 26 | 182_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/182_face_1.jpg' alt='182_face_1' width='100'/> |
-| 27 | 251_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/251_face_1.jpg' alt='251_face_1' width='100'/> |
-| 28 | 251_face_3 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/251_face_3.jpg' alt='251_face_3' width='100'/> |
-| 29 | 253_face_1 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/253_face_1.jpg' alt='253_face_1' width='100'/> |
-| 30 | 253_face_2 | 1 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/253_face_2.jpg' alt='253_face_2' width='100'/> |
+| Index | Face ID | Occurrences | Mean Engagement | Image |
+| ----- | ------- | ----- | ----- | ----- |
+| 1 | 0_face_1 | 91 | 1.0487 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/0_face_1.jpg' alt='0_face_1' width='100'/> |
+| 2 | 3_face_3 | 73 | 0.8622 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_3.jpg' alt='3_face_3' width='100'/> |
+| 3 | 3_face_1 | 69 | 0.8692 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_1.jpg' alt='3_face_1' width='100'/> |
+| 4 | 3_face_2 | 61 | 0.8643 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/3_face_2.jpg' alt='3_face_2' width='100'/> |
+| 5 | 2_face_1 | 12 | 0.8317 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/2_face_1.jpg' alt='2_face_1' width='100'/> |
+| 6 | 11_face_2 | 11 | 1.0660 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/11_face_2.jpg' alt='11_face_2' width='100'/> |
+| 7 | 30_face_2 | 8 | 1.0339 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/30_face_2.jpg' alt='30_face_2' width='100'/> |
+| 8 | 23_face_3 | 8 | 0.7273 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/23_face_3.jpg' alt='23_face_3' width='100'/> |
+| 9 | 11_face_1 | 7 | 1.0423 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/11_face_1.jpg' alt='11_face_1' width='100'/> |
+| 10 | 23_face_1 | 6 | 0.5414 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/23_face_1.jpg' alt='23_face_1' width='100'/> |
+| 11 | 2_face_2 | 5 | 1.4489 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/2_face_2.jpg' alt='2_face_2' width='100'/> |
+| 12 | 15_face_1 | 4 | 1.3719 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/15_face_1.jpg' alt='15_face_1' width='100'/> |
+| 13 | 15_face_2 | 3 | 1.5822 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/15_face_2.jpg' alt='15_face_2' width='100'/> |
+| 14 | 30_face_1 | 3 | 1.1477 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/30_face_1.jpg' alt='30_face_1' width='100'/> |
+| 15 | 23_face_2 | 3 | 0.5291 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/23_face_2.jpg' alt='23_face_2' width='100'/> |
+| 16 | 154_face_1 | 2 | 1.6774 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/154_face_1.jpg' alt='154_face_1' width='100'/> |
+| 17 | 198_face_1 | 2 | 1.0645 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/198_face_1.jpg' alt='198_face_1' width='100'/> |
+| 18 | 146_face_1 | 2 | 0.9705 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/146_face_1.jpg' alt='146_face_1' width='100'/> |
+| 19 | 251_face_2 | 2 | 0.5144 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/251_face_2.jpg' alt='251_face_2' width='100'/> |
+| 20 | 207_face_1 | 2 | 0.3934 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/207_face_1.jpg' alt='207_face_1' width='100'/> |
+| 21 | 25_face_1 | 2 | 0.3143 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/25_face_1.jpg' alt='25_face_1' width='100'/> |
+| 22 | 95_face_1 | 2 | 0.1566 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/95_face_1.jpg' alt='95_face_1' width='100'/> |
+| 23 | 95_face_2 | 2 | 0.1566 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/95_face_2.jpg' alt='95_face_2' width='100'/> |
+| 24 | 101_face_1 | 1 | 0.8260 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/101_face_1.jpg' alt='101_face_1' width='100'/> |
+| 25 | 251_face_1 | 1 | 0.7411 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/251_face_1.jpg' alt='251_face_1' width='100'/> |
+| 26 | 251_face_3 | 1 | 0.7411 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/251_face_3.jpg' alt='251_face_3' width='100'/> |
+| 27 | 170_face_1 | 1 | 0.5277 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/170_face_1.jpg' alt='170_face_1' width='100'/> |
+| 28 | 253_face_1 | 1 | 0.2877 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/253_face_1.jpg' alt='253_face_1' width='100'/> |
+| 29 | 253_face_2 | 1 | 0.2877 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/253_face_2.jpg' alt='253_face_2' width='100'/> |
+| 30 | 182_face_1 | 1 | 0.2843 | <img src='https://archive.rishabsdrive.workers.dev/1:/faces/182_face_1.jpg' alt='182_face_1' width='100'/> |
