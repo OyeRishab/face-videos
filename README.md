@@ -1,32 +1,32 @@
 | Face ID | Count | Image |
-| ------- | ----- | ------- |
-| 0_face_1 | 91 | ![0_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/0_face_1.jpg)
-| 3_face_3 | 73 | ![3_face_3](https://archive.rishabsdrive.workers.dev/1:/faces/3_face_3.jpg)
-| 3_face_1 | 69 | ![3_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/3_face_1.jpg)
-| 3_face_2 | 61 | ![3_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/3_face_2.jpg)
-| 2_face_1 | 12 | ![2_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/2_face_1.jpg)
-| 11_face_2 | 11 | ![11_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/11_face_2.jpg)
-| 23_face_3 | 8 | ![23_face_3](https://archive.rishabsdrive.workers.dev/1:/faces/23_face_3.jpg)
-| 30_face_2 | 8 | ![30_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/30_face_2.jpg)
-| 11_face_1 | 7 | ![11_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/11_face_1.jpg)
-| 23_face_1 | 6 | ![23_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/23_face_1.jpg)
-| 2_face_2 | 5 | ![2_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/2_face_2.jpg)
-| 15_face_1 | 4 | ![15_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/15_face_1.jpg)
-| 15_face_2 | 3 | ![15_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/15_face_2.jpg)
-| 23_face_2 | 3 | ![23_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/23_face_2.jpg)
-| 30_face_1 | 3 | ![30_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/30_face_1.jpg)
-| 146_face_1 | 2 | ![146_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/146_face_1.jpg)
-| 154_face_1 | 2 | ![154_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/154_face_1.jpg)
-| 198_face_1 | 2 | ![198_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/198_face_1.jpg)
-| 207_face_1 | 2 | ![207_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/207_face_1.jpg)
-| 251_face_2 | 2 | ![251_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/251_face_2.jpg)
-| 25_face_1 | 2 | ![25_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/25_face_1.jpg)
-| 95_face_1 | 2 | ![95_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/95_face_1.jpg)
-| 95_face_2 | 2 | ![95_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/95_face_2.jpg)
-| 101_face_1 | 1 | ![101_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/101_face_1.jpg)
-| 170_face_1 | 1 | ![170_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/170_face_1.jpg)
-| 182_face_1 | 1 | ![182_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/182_face_1.jpg)
-| 251_face_1 | 1 | ![251_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/251_face_1.jpg)
-| 251_face_3 | 1 | ![251_face_3](https://archive.rishabsdrive.workers.dev/1:/faces/251_face_3.jpg)
-| 253_face_1 | 1 | ![253_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/253_face_1.jpg)
-| 253_face_2 | 1 | ![253_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/253_face_2.jpg)
+| ------- | ----- | ----- |
+| 0_face_1 | 91 | ![0_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/0_face_1.jpg =100x100) |
+| 3_face_3 | 73 | ![3_face_3](https://archive.rishabsdrive.workers.dev/1:/faces/3_face_3.jpg =100x100) |
+| 3_face_1 | 69 | ![3_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/3_face_1.jpg =100x100) |
+| 3_face_2 | 61 | ![3_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/3_face_2.jpg =100x100) |
+| 2_face_1 | 12 | ![2_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/2_face_1.jpg =100x100) |
+| 11_face_2 | 11 | ![11_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/11_face_2.jpg =100x100) |
+| 23_face_3 | 8 | ![23_face_3](https://archive.rishabsdrive.workers.dev/1:/faces/23_face_3.jpg =100x100) |
+| 30_face_2 | 8 | ![30_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/30_face_2.jpg =100x100) |
+| 11_face_1 | 7 | ![11_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/11_face_1.jpg =100x100) |
+| 23_face_1 | 6 | ![23_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/23_face_1.jpg =100x100) |
+| 2_face_2 | 5 | ![2_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/2_face_2.jpg =100x100) |
+| 15_face_1 | 4 | ![15_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/15_face_1.jpg =100x100) |
+| 15_face_2 | 3 | ![15_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/15_face_2.jpg =100x100) |
+| 23_face_2 | 3 | ![23_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/23_face_2.jpg =100x100) |
+| 30_face_1 | 3 | ![30_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/30_face_1.jpg =100x100) |
+| 146_face_1 | 2 | ![146_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/146_face_1.jpg =100x100) |
+| 154_face_1 | 2 | ![154_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/154_face_1.jpg =100x100) |
+| 198_face_1 | 2 | ![198_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/198_face_1.jpg =100x100) |
+| 207_face_1 | 2 | ![207_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/207_face_1.jpg =100x100) |
+| 251_face_2 | 2 | ![251_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/251_face_2.jpg =100x100) |
+| 25_face_1 | 2 | ![25_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/25_face_1.jpg =100x100) |
+| 95_face_1 | 2 | ![95_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/95_face_1.jpg =100x100) |
+| 95_face_2 | 2 | ![95_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/95_face_2.jpg =100x100) |
+| 101_face_1 | 1 | ![101_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/101_face_1.jpg =100x100) |
+| 170_face_1 | 1 | ![170_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/170_face_1.jpg =100x100) |
+| 182_face_1 | 1 | ![182_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/182_face_1.jpg =100x100) |
+| 251_face_1 | 1 | ![251_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/251_face_1.jpg =100x100) |
+| 251_face_3 | 1 | ![251_face_3](https://archive.rishabsdrive.workers.dev/1:/faces/251_face_3.jpg =100x100) |
+| 253_face_1 | 1 | ![253_face_1](https://archive.rishabsdrive.workers.dev/1:/faces/253_face_1.jpg =100x100) |
+| 253_face_2 | 1 | ![253_face_2](https://archive.rishabsdrive.workers.dev/1:/faces/253_face_2.jpg =100x100) |
